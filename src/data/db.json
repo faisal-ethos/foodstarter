@@ -1,0 +1,100 @@
+{
+  "foods": [
+    {
+      "name": "First Entry",
+      "category": "Test",
+      "quantity": 1,
+      "unit": "piece",
+      "id": 1,
+      "createdAt": "2026-02-23T17:46:31.522Z",
+      "updatedAt": "2026-02-23T17:46:31.522Z"
+    },
+    {
+      "name": "Banana",
+      "category": "Fruit",
+      "quantity": 3,
+      "unit": "pieces",
+      "calories": 105,
+      "id": 2,
+      "createdAt": "2026-02-23T17:46:31.525Z",
+      "updatedAt": "2026-02-23T17:46:31.525Z"
+    },
+    {
+      "name": "Second Entry",
+      "category": "Test",
+      "quantity": 2,
+      "unit": "pieces",
+      "id": 3,
+      "createdAt": "2026-02-23T17:46:31.535Z",
+      "updatedAt": "2026-02-23T17:46:31.535Z"
+    },
+    {
+      "name": "Water",
+      "category": "Beverage",
+      "quantity": 1,
+      "unit": "glass",
+      "id": 4,
+      "createdAt": "2026-02-23T17:46:31.568Z",
+      "updatedAt": "2026-02-23T17:46:31.568Z"
+    },
+    {
+      "name": "Chicken Breast",
+      "category": "Protein",
+      "quantity": 150,
+      "unit": "grams",
+      "calories": 165,
+      "protein": 31,
+      "carbs": 0,
+      "fat": 3.6,
+      "notes": "Grilled, skinless",
+      "id": 5,
+      "createdAt": "2026-02-23T17:46:31.581Z",
+      "updatedAt": "2026-02-23T17:46:31.581Z"
+    },
+    {
+      "name": "First Food",
+      "category": "Test",
+      "quantity": 1,
+      "unit": "piece",
+      "id": 6,
+      "createdAt": "2026-02-23T17:46:31.587Z",
+      "updatedAt": "2026-02-23T17:46:31.587Z"
+    },
+    {
+      "name": "Food A",
+      "category": "Test",
+      "quantity": 1,
+      "unit": "piece",
+      "id": 7,
+      "createdAt": "2026-02-23T17:46:31.607Z",
+      "updatedAt": "2026-02-23T17:46:31.607Z"
+    },
+    {
+      "name": "Second Food",
+      "category": "Test",
+      "quantity": 1,
+      "unit": "piece",
+      "id": 8,
+      "createdAt": "2026-02-23T17:46:31.614Z",
+      "updatedAt": "2026-02-23T17:46:31.614Z"
+    },
+    {
+      "name": "Food B",
+      "category": "Test",
+      "quantity": 1,
+      "unit": "piece",
+      "id": 9,
+      "createdAt": "2026-02-23T17:46:31.618Z",
+      "updatedAt": "2026-02-23T17:46:31.618Z"
+    },
+    {
+      "name": "Food C",
+      "category": "Test",
+      "quantity": 1,
+      "unit": "piece",
+      "id": 10,
+      "createdAt": "2026-02-23T17:46:31.637Z",
+      "updatedAt": "2026-02-23T17:46:31.637Z"
+    }
+  ]
+}
