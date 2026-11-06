@@ -1,4 +1,4 @@
-# Food tracking app. This app allows the users to track tehir food.  Ituses drizzle ORM to interact with the database. The app is built with TanStack Start.
+# Food tracking app. This app allows the users to track their food.  It uses drizzle ORM to interact with the database. The app is built with TanStack Start.
 
 We  will be using npm.
 
